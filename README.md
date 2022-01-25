@@ -1,5 +1,7 @@
 # Dracula for [Code::Blocks](https://www.codeblocks.org/)
 
+## Moved to https://github.com/dracula/codeblocks
+
 > A dark theme for [Code::Blocks](https://www.codeblocks.org/).
 
 ![Screenshot](./screenshot.png)
